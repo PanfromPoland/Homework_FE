@@ -1,0 +1,52 @@
+.menu {
+    background-attachment: fixed;
+    background-color: blanchedalmond;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    }
+    .menu a {
+    color: black;
+    }
+h1{
+    color: blueviolet; 
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    margin: 50px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 75px;
+    border-radius: 20px;  
+}
+img {
+    width: 100px;
+    margin: 50px;
+    text-shadow: 50%;
+    border-radius: 50%;
+}
+.maininfo{
+    background-color: antiquewhite;
+    color: black;
+    text-align: left;
+}
+.study{
+    color: black;
+    text-align: left;
+    background-color: bisque;
+}
+.experience{
+   color: black;
+   text-align: left; 
+   background-color: bisque;
+}
